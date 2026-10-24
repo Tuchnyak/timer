@@ -21,3 +21,9 @@ uv run timer
 ```
 uv run pytest
 ```
+
+## License
+
+Copyright (C) 2026 George Shchennikov (https://github.com/Tuchnyak)
+
+Licensed under the [GNU General Public License v3.0](LICENSE).
