@@ -3,6 +3,12 @@
 Stages are implemented in order. Requirements and decisions: [spec.md](spec.md).
 Sound always stays the last functional stage: new intermediate features are inserted before it.
 
+## Stage 0 — Project setup
+
+- Minimal README.
+- License: GPL-3.0-only.
+- Development workflow rules in `AGENTS.md`.
+
 ## Stage 1 — Core and Flow
 
 - SQLite storage: database location, schema for settings, session types, runs and stages; schema documented in `docs/`.
